@@ -1,2 +1,5 @@
 # OS-Project-Group-1
 CPSC 351 Term Group Project
+
+## Story
+A restaurant operates like a scheduling environment because multiple orders arrive. They must be handled with limited resources like chefs, stoves, or prep stations. For example, a very popular restaurant during rush hour, where the kitchen must decide which orders need to be prepared first. In this scenario, customer orders could represent the arrival time based on when the order was placed. A burst time can be determined by how long it takes to prepare the dishes. Lastly, priority levels can depend on urgency, such as delivery/take-out deadlines, VIP customers, or quick meals like appetizers. Each order represents a process waiting to be handled by the chefs, who we could define as the CPU. Since kitchen space and staff are limited resources, the order in which meals are prepared will significantly affect customer satisfaction. If scheduling is handled poorly, customers may wait too long, causing delays, complaints, and even wasted food. Effective scheduling ensures fairness, improves responsiveness for meals, and prevents starvation when certain orders are delayed.
