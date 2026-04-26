@@ -1,7 +1,7 @@
 # OS-Project-Group-1
 CPSC 351 Term Group Project
 
-**Group 1:** Brian Hlonggul, Nicholas Legaspi, Ngoc Le, Colin Mercado
+**Group 1:** Brian Hlonggul, Nicholas Legaspi, Ngoc Le, Colin Mercado, Franklin Cruz
 ## How to Run the Code
 This project is written in standard Python and does not require any external libraries.
 1. Clone this GitHub repository or download the files to your local machine.
